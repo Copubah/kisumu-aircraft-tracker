@@ -1,0 +1,20 @@
+# AWS Configuration
+aws_region = "us-east-1"
+environment = "prod"
+
+# Project Configuration
+project_name = "kisumu-aircraft-tracker"
+
+# Notification Configuration
+notification_email = "your-email@example.com"
+
+# OpenSky Network Credentials (Optional - for higher rate limits)
+# Register at https://opensky-network.org/
+opensky_username = ""
+opensky_password = ""
+
+# Detection Parameters
+airport_lat = -0.0861  # Kisumu International Airport
+airport_lon = 34.7289
+detection_radius_km = 5
+landing_altitude_threshold = 1000  # feet

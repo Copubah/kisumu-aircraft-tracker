@@ -4,6 +4,8 @@
 
 The Aircraft Landing Tracker is a serverless system built on AWS that monitors aircraft movements around Kisumu International Airport and detects landing events in real-time.
 
+**Repository**: https://github.com/Copubah/kisumu-aircraft-tracker
+
 ## Architecture Diagram
 
 ```

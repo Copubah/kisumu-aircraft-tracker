@@ -189,7 +189,7 @@ terraform --version  # Verify Terraform installation
 ### Infrastructure Deployment
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/Copubah/kisumu-aircraft-tracker.git
 cd kisumu-aircraft-tracker
 
 # Configure variables

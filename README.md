@@ -2,6 +2,8 @@
 
 A real-time aircraft landing detection system using AWS services and the OpenSky Network API.
 
+**Repository**: https://github.com/Copubah/kisumu-aircraft-tracker
+
 ## Architecture Overview
 
 The system consists of:
